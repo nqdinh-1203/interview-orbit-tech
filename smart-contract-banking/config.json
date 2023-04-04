@@ -1,0 +1,10 @@
+{
+  "dev": {},
+  "ganache": {},
+  "main": {},
+  "mumbai": {
+    "Demo": "0x3CBD27c413877e0f3879a40C8Ea3B55f25363FCB",
+    "Token": "0xDef5cD882f776f9f909b17f5fC5c0c7036d1dcBD",
+    "Bank": "0x23AB0d60342B5042f7F56774Cac3bD569196FAB5"
+  }
+}
